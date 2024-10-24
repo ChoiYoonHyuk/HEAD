@@ -1,4 +1,4 @@
-## [WSDM '25] Review-Based Cross-Domain Recommendation via Hyperbolic Embedding and Hierarchy-Aware Domain Disentanglement
+## [WSDM '25] Review-Based Hyperbolic Cross-Domain Recommendation
 
 ### Project Structure
 
