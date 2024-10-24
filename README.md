@@ -1,4 +1,4 @@
-## [CIKM '24] Review-Based Cross-Domain Recommendation via Hyperbolic Embedding and Hierarchy-Aware Domain Disentanglement
+## [WSDM '25] Review-Based Cross-Domain Recommendation via Hyperbolic Embedding and Hierarchy-Aware Domain Disentanglement
 
 ### Project Structure
 
@@ -46,5 +46,5 @@ python3 ./HEAD/main.py  # Training / Test with following code
 ### Citation
 
 ```
-N/A
+TBD
 ```
